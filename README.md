@@ -6,7 +6,7 @@ and with static line-segment walls, and can be spawned and thrown with the
 mouse. The headline feature is a **uniform-grid broad phase** that replaces the
 naive O(n²) pair check, benchmarked side by side.
 
-> _TODO: screenshot / GIF of the sandbox here._
+![Spawning and throwing balls in the sandbox](docs/demo.gif)
 
 ## Features
 

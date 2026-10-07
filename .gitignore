@@ -1,0 +1,10 @@
+# Compiled binary
+engine
+
+# Object files
+*.o
+*.obj
+
+# Editor / OS cruft
+*.swp
+.DS_Store

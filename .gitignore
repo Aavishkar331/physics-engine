@@ -1,10 +1,13 @@
 # Compiled binary
 engine
 
-# Object files
+# Object fil
+es
 *.o
 *.obj
 
 # Editor / OS cruft
 *.swp
 .DS_Store
+
+CLAUDE.md
